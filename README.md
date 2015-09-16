@@ -1,3 +1,9 @@
+# My Website #
+This is a W.I.P project, this will be my personal website. You can check the template (Halycon Days) above. It's based too on http://chrisbasha.com/# 
+
+
+### Halycon Days notes ###
+```bash
 # "Halcyon Days" One Page Website Template
 
 "Halcyon Days" is a one page website template made by [Peter Finlan](http://peterfinlan.com/) exclusively for Codrops.
@@ -49,5 +55,4 @@ Follow Pete: [Twitter](https://twitter.com/peterfinlan), [Dribbble](http://www.d
 Follow Codrops: [Twitter](http://www.twitter.com/codrops), [Facebook](http://www.facebook.com/pages/Codrops/159107397912), [Google+](https://plus.google.com/101095823814290637419), [GitHub](https://github.com/codrops), [Pinterest](http://www.pinterest.com/codrops/)
 
 [© Codrops 2015](http://www.codrops.com)
-
-
+```
